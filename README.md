@@ -1,2 +1,3 @@
-# fabric-wind-power-pipeline
-Microsoft Fabric data pipeline for wind power analytics - Medallion architecture (Bronze/Silver/Gold)
+# Wind Power Analytics - Microsoft Fabric Pipeline
+
+Pipeline de données end-to-end sur Microsoft Fabric pour l'analyse de la production d'énergie éolienne.
